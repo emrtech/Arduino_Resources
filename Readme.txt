@@ -20,7 +20,7 @@ Make sure Arduino IDE is not running.
 
 A simple example test program is included to test your RS485 setup.
 
-The IDE should probaby no earlier the V1.65. It was tested with the current IDE version V1.82
+The IDE should probaby be no earlier than V1.65. It was tested with the current IDE version V1.82
 
 The program was tested with:
 

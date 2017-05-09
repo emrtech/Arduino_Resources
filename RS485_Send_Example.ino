@@ -39,8 +39,8 @@
 char c = 0;   // for incoming serial data
 
 void setup() {
-// initialize serial with RS485 transceiver
-Serial.begin(BAUD_USART, SERIAL_8N1, RS485_ENABLED, RS485DIR_PIN, RS485_ACTIVE_HIGH);
+  // initialize serial with RS485 transceiver
+  Serial.begin(BAUD_USART, SERIAL_8N1, RS485_ENABLED, RS485DIR_PIN, RS485_ACTIVE_HIGH);
 
 }
 
